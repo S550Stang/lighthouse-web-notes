@@ -1,4 +1,4 @@
-# [Prabhu Vardhan Pilli]'s Notes
+# Prabhu Vardhan Pilli's Notes
 
 # This is an H1 header (largest)
 
