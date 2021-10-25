@@ -1,5 +1,5 @@
 # Prabhu Vardhan Pilli's Notes
 
-# This is an H1 header (largest)
+## Summary
 
-###### This is an H6 header (smallest)
+This repository contains all of the notes taken by [Prabhu Vardhan Pilli](https://github.com/S550Stang/lighthouse-web-notes/blob/master/README.md) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
